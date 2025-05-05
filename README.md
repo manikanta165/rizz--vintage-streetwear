@@ -50,7 +50,7 @@ header {
 .hero {
   padding: 60px 20px;
   text-align: center;
-  background: url('https://www.transparenttextures.com/patterns/white-wall-3.png');
+  background: url('https://www.transparenttextures.com/patterns/black-wall-3.png');
 }
 
 .hero h2 {
