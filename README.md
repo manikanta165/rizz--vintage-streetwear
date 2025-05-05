@@ -74,7 +74,7 @@ header {
 .generate-btn {
   padding: 12px 24px;
   background-color: #0a0a0a;
-  color: white;
+  color: Black;
   border: none;
   font-family: 'Libre Baskerville', serif;
   cursor: pointer;
@@ -84,10 +84,13 @@ header {
   background-color: #333;
 }
 
-footer {
+footer {![file_0000000036146230a22aae65e30f1b25_conversation_id=67ff5608-8480-800c-8128-c68ecf7228a3 message_id=00265a55-a0eb-48d8-ac7f-3c761ae57333 (2)](https://github.com/user-attachments/assets/333a31d6-115f-4a58-9946-ae9a51503b7d)
+![IMG_20250419_020500_469](https://github.com/user-attachments/assets/279d8496-636b-4963-98f0-0accff1611b6)
+
   text-align: center;
   padding: 20px;
   background: #0a0a0a;
   color: white;
   font-size: 0.9rem;
 }
+![4eab94c04804ace625815663904f3ff6](https://github.com/user-attachments/assets/bcad7382-f4ca-41af-bd74-849ff4e4b51d)
